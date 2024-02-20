@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Victor Augusto!😀
 
 - 💻 Estou estudando front-end
-- 👨‍🎓 Atualmente estou cursando o 2° semestre em Análise e desenvolvimento de sistemas na Universidade Presbiteriana Mackenzie
+- 👨‍🎓 Atualmente estou cursando o 5° semestre em Análise e desenvolvimento de sistemas na Universidade Presbiteriana Mackenzie
 - 💬 Contate-me no email: victoraugustob22@gmail.com
 - ⌨ HTML | CSS | JAVASCRIPT | BOOTSTRAP
 

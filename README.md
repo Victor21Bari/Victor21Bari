@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor Augusto!😀
 
-- 💻  Desenvolvedor WEB
+- 💻 Desenvolvedor WEB
 - 👨‍🎓 Analista e desenvolvedor de sistemas
 - 💬 Contate-me no email: augustobvictor@gmail.com
 - ⌨ HTML | CSS | JAVASCRIPT | BOOTSTRAP | TailwindCSS | React | PHP | Laravel | Nodejs | SQL |

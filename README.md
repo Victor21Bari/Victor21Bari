@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor WEB
 - 👨‍🎓 Analista e desenvolvedor de sistemas
-- 💬 Contate-me no email: augustobvictor@gmail.com
+- 💬 Contate-me no e-mail: augustobvictor@gmail.com
 - ⌨ HTML | CSS | JAVASCRIPT | BOOTSTRAP | TailwindCSS | React | PHP | Laravel | Nodejs | SQL |
 
 <div align="center">

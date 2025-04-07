@@ -3,7 +3,7 @@
 - 💻 Desenvolvedor WEB
 - 👨‍🎓 Analista e desenvolvedor de sistemas
 - 💬 Contate-me no e-mail: augustobvictor@gmail.com
-- ⌨ HTML | CSS | JAVASCRIPT | BOOTSTRAP | TailwindCSS | React | PHP | Laravel | Nodejs | SQL |
+- ⌨ HTML | CSS | JAVASCRIPT | BOOTSTRAP | TailwindCSS | React | PHP | Laravel | Nodejs | SQL | 
 
 <div align="center">
   <a href="https://github.com/Victor21Bari">

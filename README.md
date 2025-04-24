@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Victor Augusto!😀
 
 - 💻 Desenvolvedor WEB
-- 👨‍🎓 Analista e desenvolvedor de sistemas
+- 👨‍🎓 Analista e desenvolvedor de sistemas formado pela Universidade Presbiteriana Mackenzie
 - 💬 Contate-me no e-mail: augustobvictor@gmail.com
 - ⌨ HTML | CSS | JAVASCRIPT | BOOTSTRAP | TailwindCSS | React | PHP | Laravel | Nodejs | SQL | 
 
